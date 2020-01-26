@@ -644,7 +644,7 @@ h3 {
 /* line 34, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_section_title.scss */
 .section_title p {
   font-size: 16px;
-  color: #7A838B;
+  color: #FFFFFF;
   line-height: 28px;
   margin-bottom: 0;
   font-weight: 400;
@@ -1690,7 +1690,7 @@ h3 {
 
 /* line 46, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_testmonial.scss */
 .testimonial_area .single_testmonial .testmonial_author h3 {
-  color: #7A838B;
+  color: #FFFFFF;
   font-size: 16px;
   font-weight: 400;
 }
@@ -3003,7 +3003,7 @@ h3 {
 
 /* line 24, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_newsletter.scss */
 .newletter_area .newsletter_text p {
-  color: #AAB1B7;
+  color: #FFFFFF;
   font-size: 16px;
   line-height: 28px;
   margin-bottom: 0;
@@ -3537,7 +3537,7 @@ h3 {
 .travel_variation_area .single_travel p {
   font-size: 16px;
   font-weight: 400;
-  color: #6E6E6E;
+  color: #FFFFFF;
 }
 
 /*=================== contact banner start ====================*/
